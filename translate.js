@@ -4,8 +4,7 @@ var buttonTranslate = document.querySelector('#btn-translate');
 var apiUrl = "	https://api.funtranslations.com/translate/pirate.json";
 
 
-document.getElementById('input-text').value = '';
-document.getElementById('output-text').value = '';
+
 
 function errorHandle(error) {
   
