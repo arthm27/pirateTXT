@@ -1,0 +1,1 @@
+A very simple app that converts the given text from the user to a pirate language or more like how a pirate will say that particular text !!! 
